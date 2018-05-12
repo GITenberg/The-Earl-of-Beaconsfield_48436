@@ -1,4 +1,8 @@
 _repo: The-Earl-of-Beaconsfield_48436
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48436-h/images/cover.jpg
 creator:
   author:
     agent_name: Froude, James Anthony
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1381
     wikipedia: http://en.wikipedia.org/wiki/James_Anthony_Froude
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48436#The-Earl-of-Beaconsfield
 gutenberg_issued: '2015-03-08'
 gutenberg_type: Text
 identifiers:
